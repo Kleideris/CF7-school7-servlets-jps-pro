@@ -1,1 +1,1 @@
-# CF7-school7-servlets-jps-pro
+# This is a SSR app with session-based Authentication
